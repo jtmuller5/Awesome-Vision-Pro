@@ -37,7 +37,8 @@ Collection of apps, tools, resources, and articles related to the [Apple Vision 
 - [Orbit Meditation](https://orbitmeditationapp.com/)
 
 ## Lifestyle
-- [Plant Daddy](https://plantdaddy.app) 
+- [Plant Daddy](https://plantdaddy.app)
+- [News Ticker](https://apps.apple.com/us/app/news-ticker/id6477275619)
 
 ## Music
 - [Longplay](https://longplay.rocks)
@@ -68,7 +69,7 @@ Collection of apps, tools, resources, and articles related to the [Apple Vision 
 
 ## Utilities
 - [Quiet](https://petercammeraat.net/projects/quiet/)
-- [News Ticker](https://apps.apple.com/us/app/news-ticker/id6477275619)
+- [Spatial Calculator](https://apps.apple.com/us/app/spatial-calculator/id6476468151)
 
 # Repos
 - [Generative Wall Art](https://github.com/tracyhenry/GenerativeDoodleArt_VisionOS)
