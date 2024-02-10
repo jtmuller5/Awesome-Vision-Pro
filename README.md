@@ -17,7 +17,8 @@ Collection of apps, developer resources, communities, and articles related to th
 - [Simplefax](https://furnacecreek.org/simplefax/vision)
 
 ## Education
-- [Memorii](https://www.studioamanga.com/memorii/) 
+- [Memorii](https://www.studioamanga.com/memorii/)
+- [Sky Guide](https://www.fifthstarlabs.com/sky-guide)
 
 ## Finance
 - [Bills to Budget](https://apps.apple.com/us/app/bills-to-budget/id1636872963)
