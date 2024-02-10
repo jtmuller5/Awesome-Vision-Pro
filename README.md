@@ -42,6 +42,7 @@ Collection of apps, developer resources, communities, and articles related to th
 ## Lifestyle
 - [Plant Daddy](https://plantdaddy.app)
 - [News Ticker](https://apps.apple.com/us/app/news-ticker/id6477275619)
+- [Crouton](https://apps.apple.com/nz/app/crouton-recipe-manager/id1461650987)
 
 ## Music
 - [Longplay](https://longplay.rocks)
