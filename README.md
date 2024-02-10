@@ -15,6 +15,7 @@ Collection of apps, developer resources, communities, and articles related to th
 # Apps
 ## Business
 - [Bloomberg Pro](https://apps.apple.com/us/app/bloomberg-pro-for-vision/id6473833932)
+- [Numerics](https://apps.apple.com/us/app/numerics-business-dashboards/id875319874?platform=appleVisionPro)
 - [Simplefax](https://furnacecreek.org/simplefax/vision)
 
 ## Education
