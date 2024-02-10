@@ -21,7 +21,7 @@ Collection of apps, tools, resources, and articles related to the [Apple Vision 
 ## Finance
 - [Bills to Budget](https://apps.apple.com/us/app/bills-to-budget/id1636872963)
 - [Expenses](https://getexpenses.app)
-- SubManager](https://getsubmanager.app/)
+- [SubManager](https://getsubmanager.app/)
 
 ## Games
 - [Kattam](https://apps.apple.com/us/app/kattam/id6476475799)
@@ -73,6 +73,7 @@ Collection of apps, tools, resources, and articles related to the [Apple Vision 
 
 # Articles
 - [Apple Vision Pro is Apple's new $3,499 AR headset](https://www.theverge.com/2023/6/5/23738968/apple-vision-pro-ar-headset-features-specs-price-release-date-wwdc-2023)
+- [visionOS 1.1 gets its first beta release with MDM and device reset](https://www.macworld.com/article/2228964/visionos-1-1-beta-features-release-date.html)
 
 # Community
 - [r/visionos](https://www.reddit.com/r/visionos/)
