@@ -57,6 +57,7 @@ Collection of apps, developer resources, communities, and articles related to th
 - [Juno](https://christianselig.com/2024/02/introducing-juno/)
 - [Photoscope](https://leitmotif.dev/photoscope)
 - [Spatial Cam](https://apps.apple.com/us/app/spatial-cam/id6477200179?platform=appleVisionPro)
+- [Spool](https://apps.apple.com/us/app/spool-music-video-editor/id1604274234?platform=appleVisionPro)
 
 ## Productivity
 - [Chronicling](https://chroniclingapp.com/2024/01/apple-vision-pro-launch-ready/)
