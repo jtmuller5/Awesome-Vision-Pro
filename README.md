@@ -3,7 +3,7 @@
 </a>
 
 # Awesome Vision Pro
-Collection of apps, tools, resources, and articles related to the [Apple Vision Pro](https://www.apple.com/apple-vision-pro/).
+Collection of apps, developer resources, communities, and articles related to the [Apple Vision Pro](https://www.apple.com/apple-vision-pro/).
 
 # Table of Contents
 - [📲 Apps](#Apps)
