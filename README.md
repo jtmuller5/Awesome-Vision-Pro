@@ -7,6 +7,7 @@ Collection of apps, tools, resources, and articles related to the [Apple Vision 
 
 # Table of Contents
 - [📲 Apps](#Apps)
+- [💻 Repos](#Repos)
 - [📚 Resources](#Resources)
 - [📰 Articles](#Articles)
 - [👥 Community](#Community)
@@ -62,6 +63,39 @@ Collection of apps, tools, resources, and articles related to the [Apple Vision 
 ## Utilities
 - [Quiet](https://petercammeraat.net/projects/quiet/)
 
+# Repos
+- [Generative Wall Art](https://github.com/tracyhenry/GenerativeDoodleArt_VisionOS)
+- [Music Player UI](https://github.com/vinothvino42/MusicPlayerUI-VisionOS)
+- [Open visionOS: Animations and UI Designs](https://github.com/amosgyamfi/OpenvisionOS)
+- [KSPlayer on visionOS](https://github.com/kingslay/KSPlayer)
+- [WGSL running in visionOS](https://github.com/jinleili/wgpu-in-app)
+- [30 Days with visionOS](https://github.com/satoshi0212/visionOS_30Days)
+- [Dream with Vision Pro](https://github.com/Sigil-Wen/Dream-with-Vision-Pro)
+- [ISS in your room](https://github.com/ynagatomo/ISSInYourRoomVO)
+- [Stereoscopic Screenshots](https://github.com/zhuowei/VisionOSStereoScreenshots)
+- [ChatGPT + visionOS Documentation](https://github.com/Takuzen/visionosdocsgpt-cli)
+- [VisionCraft](https://github.com/Sigil-Wen/VisionCraft)
+- [Rickies3D](https://github.com/JamBlumberg/Rickies3D)
+- [Build visionOS in React](https://github.com/gabrieldonadel/react-native-visionos)
+- [Note App](https://cordovaputra.com/works/spatial-experience)
+- [Lightweight 3D visualizer](https://github.com/matteofontana-app/MF3DE)
+- [Trivial Red Cube](https://github.com/faisalmemon/trivial-red-cube-visionos-app)
+- [Netflix Vision Pro](https://github.com/barisozgenn/NetflixVisionPro)
+- [Stock Watcher App](https://github.com/6/StonksPro)
+- [Rick and Morty API](https://github.com/AdrianZzito/Rick-Morty-visionOS) and [here](https://github.com/Muruadev/RickAndMorty-visionOS)
+- [Movie Application using Flutter](https://github.com/Thaanu2001/Movie-App-VisionOS-Flutter)
+- [List of Swift Packages using RealityKit](https://github.com/maxxfrazer/RealityKit-Package-Collection)
+- [BookSight](https://github.com/AdrianZzito/visionOS-Portfolio)
+- [OSLog for visionOS](https://github.com/gokulnair2001/OSLogKit)
+- [Sports stats](https://github.com/alfianlosari/XCAFootballStats)
+- [Funnyassi spawn](https://github.com/TETRA2000/visionOS-Funassyi)
+- [RealityGeometries](https://github.com/maxxfrazer/RealityGeometries)
+- [Metal Rendering](https://github.com/metal-by-example/metal-spatial-rendering)
+- [Playground for someone](https://github.com/anshumalivfx/First_Vision_Pro_App)
+- [Simple Calculator](https://github.com/bahadiraraz/visionOS-example) and [here](https://github.com/ishaanbedi/Vision-Calculator) and [here](https://github.com/fukutawata/visionOS_calculator)
+- [visionOS in Quest](https://github.com/JustinPBarnett/visionOS-Demo)
+- [Develop with Imagine lol](https://github.com/BaeBae33/visionOS-develop-with-imagine)
+- [Wordle VisionOS Game](https://github.com/qaze/vision_wordle/)
 
 # Resources
 - [VisionOS Docs](https://developer.apple.com/visionos/)
