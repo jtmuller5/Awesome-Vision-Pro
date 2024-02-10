@@ -65,6 +65,7 @@ Collection of apps, tools, resources, and articles related to the [Apple Vision 
 
 ## Utilities
 - [Quiet](https://petercammeraat.net/projects/quiet/)
+- [News Ticker](https://apps.apple.com/us/app/news-ticker/id6477275619)
 
 # Repos
 - [Generative Wall Art](https://github.com/tracyhenry/GenerativeDoodleArt_VisionOS)
