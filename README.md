@@ -224,4 +224,5 @@ Collection of apps, developer resources, communities, and articles related to th
 # Community
 - [r/visionos](https://www.reddit.com/r/visionos/)
 - [r/visionosdev](https://www.reddit.com/r/visionosdev/)
+- [Apple Support Community](https://discussions.apple.com/community/apple-vision-pro)
 - [VisionOS Dev Community](https://twitter.com/i/communities/1676670381879447564)
