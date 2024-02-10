@@ -1,3 +1,5 @@
+<img src="https://github.com/jtmuller5/Awesome-Vision-Pro/raw/main/avp_cover.png" />
+
 <a href="https://awesome.re">
     <img src="https://awesome.re/badge.svg" alt="Awesome">
 </a>
