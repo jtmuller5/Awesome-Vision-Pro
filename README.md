@@ -54,6 +54,7 @@ Collection of apps, tools, resources, and articles related to the [Apple Vision 
 - [Subjects](https://eyen.fr/subjects/)
 - [TLDR AI](https://apps.apple.com/us/app/tldr-ai/id6449050657)
 - [Bezel](https://getbezel.app/vision/)
+- [Spatial Noise](https://apps.apple.com/us/app/spatial-noise/id6477335349)
 
 ## Sports
 - [Cricket Scores Live Matches](https://apps.apple.com/us/app/cricket-scores-live-matches/id1616385207)
