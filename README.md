@@ -126,6 +126,7 @@ Collection of apps, developer resources, communities, and articles related to th
 - [Flutter](https://github.com/flutter/flutter/issues/129638)
 - [DataDog](https://github.com/DataDog/dd-sdk-ios/issues/1652)
 - [Mastodon](https://github.com/mastodon/mastodon-ios/issues/1106)
+- [Spotify](https://community.spotify.com/t5/Closed-Ideas/Basic-support-for-vision-pro/idi-p/5862792)
 
 # Resources
 - [VisionOS Docs](https://developer.apple.com/visionos/)
