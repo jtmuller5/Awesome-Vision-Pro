@@ -8,7 +8,6 @@ Collection of apps, tools, resources, and articles related to the [Apple Vision 
 # Table of Contents
 - [📲 Apps](#Apps)
 - [📚 Resources](#Resources)
-- [🛠️ Tools](#Tools)
 - [📰 Articles](#Articles)
 - [👥 Community](#Community)
 
@@ -67,9 +66,7 @@ Collection of apps, tools, resources, and articles related to the [Apple Vision 
 # Resources
 - [VisionOS Docs](https://developer.apple.com/visionos/)
 - [VisionOS Release Notes](https://developer.apple.com/documentation/visionos-release-notes/visionos-release-notes)
-
-
-# Tools
+- [Unity for VisionOS](https://docs.unity3d.com/Packages/com.unity.polyspatial.visionos@0.1/manual/visionOSPlatformOverview.html)
 - [Sentry for VisionOS](https://docs.sentry.io/platforms/apple/guides/visionos/)
 
 
