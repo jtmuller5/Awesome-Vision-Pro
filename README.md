@@ -106,6 +106,13 @@ Collection of apps, tools, resources, and articles related to the [Apple Vision 
 - [Develop with Imagine lol](https://github.com/BaeBae33/visionOS-develop-with-imagine)
 - [Wordle VisionOS Game](https://github.com/qaze/vision_wordle/)
 
+# Requested Platforms
+- [Dart](https://github.com/dart-lang/native/issues/961)
+- [Firebase](https://github.com/firebase/firebase-ios-sdk/issues/12161)
+- [Flutter](https://github.com/flutter/flutter/issues/129638)
+- [DataDog](https://github.com/DataDog/dd-sdk-ios/issues/1652)
+- [Mastodon](https://github.com/mastodon/mastodon-ios/issues/1106)
+
 # Resources
 - [VisionOS Docs](https://developer.apple.com/visionos/)
 - [VisionOS Release Notes](https://developer.apple.com/documentation/visionos-release-notes/visionos-release-notes)
