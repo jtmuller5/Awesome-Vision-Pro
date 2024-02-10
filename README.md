@@ -25,6 +25,7 @@ Collection of apps, developer resources, communities, and articles related to th
 - [SubManager](https://getsubmanager.app/)
 
 ## Games
+- [Synth Riders](https://synthridersvr.com/)
 - [Kattam](https://apps.apple.com/us/app/kattam/id6476475799)
 - [Minghin](https://minghin.letvar.io)
 - [Loona](https://loona.vision/)
@@ -127,6 +128,8 @@ Collection of apps, developer resources, communities, and articles related to th
 - [Apple Vision Pro is Apple's new $3,499 AR headset](https://www.theverge.com/2023/6/5/23738968/apple-vision-pro-ar-headset-features-specs-price-release-date-wwdc-2023)
 - [visionOS 1.1 gets its first beta release with MDM and device reset](https://www.macworld.com/article/2228964/visionos-1-1-beta-features-release-date.html)
 - [Apple Vision Pro Review: The Best Headset Yet Is Just a Glimpse of the Future](https://www.wsj.com/tech/apple-vision-pro-review-39f2d82e)
+- [I used the Apple Vision Pro for my 8-hour work day, and it left me wanting more](https://www.zdnet.com/article/i-used-the-apple-vision-pro-for-my-8-hour-work-day-and-it-left-me-wanting-more/)
+- [The Apple Vision Pro Is Spectacular and Sad](https://www.theatlantic.com/technology/archive/2024/02/apple-vision-pro-headset-review/677347/)
 
 # Tweets
 - [40ft Screen](https://twitter.com/mckaywrigley/status/1754225372298973563?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1754225372298973563%7Ctwgr%5Eac613e44e8b49552104dbb2fbf50a0a2f9c03794%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fthevisionproblog.com%2Fvision-pro-tweets%2F)
@@ -135,6 +138,7 @@ Collection of apps, developer resources, communities, and articles related to th
 - [NBA Vision Pro app](https://twitter.com/tim_cook/status/1753782685774856661?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1753782685774856661%7Ctwgr%5Eac613e44e8b49552104dbb2fbf50a0a2f9c03794%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fthevisionproblog.com%2Fvision-pro-tweets%2F)
 - [Expo for Vision Pro](https://twitter.com/Baconbrix/status/1753927218697208102?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1753927218697208102%7Ctwgr%5Eac613e44e8b49552104dbb2fbf50a0a2f9c03794%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fthevisionproblog.com%2Fvision-pro-tweets%2F)
 - [Wisp](https://twitter.com/Aidan_Wolf/status/1753491970025222396?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1753491970025222396%7Ctwgr%5Eac613e44e8b49552104dbb2fbf50a0a2f9c03794%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fthevisionproblog.com%2Fvision-pro-tweets%2F)
+- [Second most impressive tech since iphone](https://x.com/sama/status/1756072368236376171?s=20)
 
 # Community
 - [r/visionos](https://www.reddit.com/r/visionos/)
