@@ -44,6 +44,7 @@ Collection of apps, tools, resources, and articles related to the [Apple Vision 
 ## Photo & Video
 - [Juno](https://christianselig.com/2024/02/introducing-juno/)
 - [Photoscope](https://leitmotif.dev/photoscope)
+- [Spatial Cam](https://apps.apple.com/us/app/spatial-cam/id6477200179?platform=appleVisionPro)
 
 ## Productivity
 - [Chronicling](https://chroniclingapp.com/2024/01/apple-vision-pro-launch-ready/)
