@@ -5,6 +5,13 @@
 # Awesome Vision Pro
 Collection of apps, tools, resources, and articles related to the [Apple Vision Pro](https://www.apple.com/apple-vision-pro/).
 
+# Table of Contents
+- [📲 Apps](#Apps)
+- [📚 Resources](#Resources)
+- [🛠️ Tools](#Tools)
+- [📰 Articles](#Articles)
+- [👥 Community](#Community)
+
 # Apps
 ## Business
 - [Simplefax](https://furnacecreek.org/simplefax/vision)
@@ -67,3 +74,6 @@ Collection of apps, tools, resources, and articles related to the [Apple Vision 
 
 # Articles
 - [Apple Vision Pro is Apple's new $3,499 AR headset](https://www.theverge.com/2023/6/5/23738968/apple-vision-pro-ar-headset-features-specs-price-release-date-wwdc-2023)
+
+# Community
+- [r/visionos](https://www.reddit.com/r/visionos/)
