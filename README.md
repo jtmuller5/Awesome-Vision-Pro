@@ -9,7 +9,9 @@ Collection of apps, developer resources, communities, and articles related to th
 - [📲 Apps](#Apps)
 - [💻 Repos](#Repos)
 - [📚 Resources](#Resources)
+- [🗳️ Requested Platforms](#Requested-Platforms)
 - [📰 Articles](#Articles)
+- [🐦 Tweets](#Tweets)
 - [👥 Community](#Community)
 
 # Apps
