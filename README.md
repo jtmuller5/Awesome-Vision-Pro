@@ -37,6 +37,7 @@ Collection of apps, developer resources, communities, and articles related to th
 ## Graphics & Design
 - [Bento|Craft](https://thatvirtualboy.com/bentocraft)
 - [A Bunch of Things](https://apps.apple.com/us/app/a-bunch-of-things/id6477489901)
+- [JigSpace](https://www.jig.space/blog/jigspace-featured-apple-vision-pro-announcement)
 
 ## Health & Fitness
 - [Orbit Meditation](https://orbitmeditationapp.com/)
