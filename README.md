@@ -42,6 +42,7 @@ Collection of apps, tools, resources, and articles related to the [Apple Vision 
 - [tappr.tv](https://www.tappr.tv)
 
 ## Photo & Video
+- [Juno](https://christianselig.com/2024/02/introducing-juno/)
 - [Photoscope](https://leitmotif.dev/photoscope)
 
 ## Productivity
