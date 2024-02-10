@@ -134,6 +134,7 @@ Collection of apps, developer resources, communities, and articles related to th
 - [Unity for VisionOS](https://docs.unity3d.com/Packages/com.unity.polyspatial.visionos@0.1/manual/visionOSPlatformOverview.html)
 - [Sentry for VisionOS](https://docs.sentry.io/platforms/apple/guides/visionos/)
 - [VisionOS on Stack Overflow](https://stackoverflow.com/questions/tagged/visionos)
+- [Halodepth - 2D to Spatial Video](https://halodepth.com/)
 
 
 # Articles
