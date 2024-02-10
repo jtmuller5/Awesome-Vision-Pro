@@ -7,7 +7,7 @@ Collection of apps, tools, resources, and articles related to the [Apple Vision 
 
 # Apps
 ## Business
-- Simplefax](https://furnacecreek.org/simplefax/vision)
+- [Simplefax](https://furnacecreek.org/simplefax/vision)
 
 ## Education
 - [Memorii](https://www.studioamanga.com/memorii/) 
@@ -58,6 +58,7 @@ Collection of apps, tools, resources, and articles related to the [Apple Vision 
 
 # Resources
 - [VisionOS Docs](https://developer.apple.com/visionos/)
+- [VisionOS Release Notes](https://developer.apple.com/documentation/visionos-release-notes/visionos-release-notes)
 
 
 # Tools
