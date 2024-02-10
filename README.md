@@ -70,6 +70,7 @@ Collection of apps, tools, resources, and articles related to the [Apple Vision 
 ## Utilities
 - [Quiet](https://petercammeraat.net/projects/quiet/)
 - [Spatial Calculator](https://apps.apple.com/us/app/spatial-calculator/id6476468151)
+- [TimerUp](https://apps.apple.com/us/app/timerup-multi-step-timer/id6449905683)
 
 # Repos
 - [Generative Wall Art](https://github.com/tracyhenry/GenerativeDoodleArt_VisionOS)
