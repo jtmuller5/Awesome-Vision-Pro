@@ -27,6 +27,7 @@ Collection of apps, tools, resources, and articles related to the [Apple Vision 
 ## Games
 - [Kattam](https://apps.apple.com/us/app/kattam/id6476475799)
 - [Minghin](https://minghin.letvar.io)
+- [Loona](https://loona.vision/)
 
 ## Graphics & Design
 - [Bento|Craft](https://thatvirtualboy.com/bentocraft)
