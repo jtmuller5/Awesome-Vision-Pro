@@ -33,6 +33,7 @@ Collection of apps, developer resources, communities, and articles related to th
 
 ## Games
 - [Synth Riders](https://synthridersvr.com/)
+- [Jumpfinity](https://apps.apple.com/us/app/jumpfinity/id6477134673)
 - [Kattam](https://apps.apple.com/us/app/kattam/id6476475799)
 - [Minghin](https://minghin.letvar.io)
 - [Loona](https://loona.vision/)
@@ -232,3 +233,4 @@ Collection of apps, developer resources, communities, and articles related to th
 - [r/visionosdev](https://www.reddit.com/r/visionosdev/)
 - [Apple Support Community](https://discussions.apple.com/community/apple-vision-pro)
 - [VisionOS Dev Community](https://twitter.com/i/communities/1676670381879447564)
+- [VisionOS Community](https://twitter.com/i/communities/1670560952134303746)
