@@ -54,6 +54,9 @@ Collection of apps, developer resources, communities, and articles related to th
 - [News Ticker](https://apps.apple.com/us/app/news-ticker/id6477275619)
 - [Crouton](https://apps.apple.com/nz/app/crouton-recipe-manager/id1461650987)
 
+## Social
+- [Sora for Mastodon & Bluesky](https://apps.apple.com/us/app/sora-for-mastodon-bluesky/id6450969760)
+
 ## Music
 - [Longplay](https://longplay.rocks)
 - [tappr.tv](https://www.tappr.tv)
