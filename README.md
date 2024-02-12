@@ -144,6 +144,13 @@ Collection of apps, developer resources, communities, and articles related to th
 - [Sentry for VisionOS](https://docs.sentry.io/platforms/apple/guides/visionos/)
 - [VisionOS on Stack Overflow](https://stackoverflow.com/questions/tagged/visionos)
 - [Halodepth - 2D to Spatial Video](https://halodepth.com/)
+- 3D Models
+  - [Apple's USDZ Sample Gallery](https://developer.apple.com/augmented-reality/quick-look/)
+  - [Sketchfab](https://sketchfab.com/)
+  - [TurboSquid](https://www.turbosquid.com/)
+  - [CGTrader](https://www.cgtrader.com/)
+  - [Free3D](https://free3d.com/)
+  - [Reality Converter](https://developer.apple.com/news/?id=01132020a)
 
 
 # Articles
