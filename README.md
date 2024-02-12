@@ -97,6 +97,7 @@ Collection of apps, developer resources, communities, and articles related to th
 - [Navi](https://apps.apple.com/us/app/navi-subtitles-translation/id1573261774?platform=appleVisionPro)
 
 # Repos
+- [Vision Pro Tips and Tricks](https://github.com/jtmuller5/VisionOS-Tips-and-Tricks/tree/main)
 - [Generative Wall Art](https://github.com/tracyhenry/GenerativeDoodleArt_VisionOS)
 - [Music Player UI](https://github.com/vinothvino42/MusicPlayerUI-VisionOS)
 - [Open visionOS: Animations and UI Designs](https://github.com/amosgyamfi/OpenvisionOS)
