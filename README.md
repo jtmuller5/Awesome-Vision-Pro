@@ -13,7 +13,7 @@ Collection of apps, developer resources, communities, and articles related to th
 - [📚 Resources](#Resources)
 - [🗳️ Requested Platforms](#Requested-Platforms)
 - [📰 Articles](#Articles)
-- [🐦 Tweets](Tweets)
+- [🐦 Tweets](Tweets.md)
 - [👥 Community](#Community)
 
 # Apps
