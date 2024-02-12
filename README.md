@@ -90,6 +90,7 @@ Collection of apps, developer resources, communities, and articles related to th
 
 ## Utilities
 - [Day Peek](https://twitter.com/day_peek)
+- [Nightvision for Nightscout](https://t.co/OEhu4ViP8K)
 - [Quiet](https://petercammeraat.net/projects/quiet/)
 - [Spatial Calculator](https://apps.apple.com/us/app/spatial-calculator/id6476468151)
 - [TimerUp](https://apps.apple.com/us/app/timerup-multi-step-timer/id6449905683)
