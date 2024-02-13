@@ -48,6 +48,7 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 - [Bento|Craft](https://thatvirtualboy.com/bentocraft)
 - [A Bunch of Things](https://apps.apple.com/us/app/a-bunch-of-things/id6477489901)
 - [JigSpace](https://www.jig.space/blog/jigspace-featured-apple-vision-pro-announcement)
+- [CamPlan](https://camplan.ai/)
 
 ## Health & Fitness
 - [Orbit Meditation](https://orbitmeditationapp.com/)
