@@ -1,4 +1,5 @@
 # Tweets
+- [Expose eye tracking](https://twitter.com/i/bookmarks/all?post_id=1757268086405976512)
 - [WhisperKit on AVP](https://twitter.com/RayFernando1337/status/1757808567787413826)
 - [40ft Screen](https://twitter.com/mckaywrigley/status/1754225372298973563?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1754225372298973563%7Ctwgr%5Eac613e44e8b49552104dbb2fbf50a0a2f9c03794%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fthevisionproblog.com%2Fvision-pro-tweets%2F)
 - [Dual Chip Performance](https://twitter.com/AppleVisionPro/status/1754591263913824677?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1754591263913824677%7Ctwgr%5Eac613e44e8b49552104dbb2fbf50a0a2f9c03794%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fthevisionproblog.com%2Fvision-pro-tweets%2F)
