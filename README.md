@@ -35,6 +35,7 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 - [SubManager](https://getsubmanager.app/)
 
 ## Games
+- [BlackBox](https://www.blackboxpuzzles.com/)
 - [Synth Riders](https://synthridersvr.com/)
 - [Jumpfinity](https://apps.apple.com/us/app/jumpfinity/id6477134673)
 - [Kattam](https://apps.apple.com/us/app/kattam/id6476475799)
