@@ -61,6 +61,7 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 
 ## Social
 - [Sora for Mastodon & Bluesky](https://apps.apple.com/us/app/sora-for-mastodon-bluesky/id6450969760)
+- [TikTok](https://techcrunch.com/2024/02/15/tiktok-launches-a-reimagined-app-for-the-apple-vision-pro/)
 
 ## Music
 - [Longplay](https://longplay.rocks)
