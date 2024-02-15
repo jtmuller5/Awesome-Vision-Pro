@@ -50,7 +50,6 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 - [A Bunch of Things](https://apps.apple.com/us/app/a-bunch-of-things/id6477489901)
 - [JigSpace](https://www.jig.space/blog/jigspace-featured-apple-vision-pro-announcement)
 - [CamPlan](https://camplan.ai/)
-- [Make it Spatial](https://apps.apple.com/us/app/make-it-spatial/id6477729396?mt=12)
 
 ## Health & Fitness
 - [Orbit Meditation](https://orbitmeditationapp.com/)
@@ -69,6 +68,7 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 - [tappr.tv](https://www.tappr.tv)
 
 ## Photo & Video
+- [Make it Spatial](https://apps.apple.com/us/app/make-it-spatial/id6477729396?mt=12)
 - [Juno](https://christianselig.com/2024/02/introducing-juno/)
 - [Photoscope](https://leitmotif.dev/photoscope)
 - [Spatial Cam](https://apps.apple.com/us/app/spatial-cam/id6477200179?platform=appleVisionPro)
