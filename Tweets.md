@@ -1,4 +1,5 @@
 # Tweets
+- [Text to 3D with LumaLabsAI](https://twitter.com/ammaar/status/1754711436193112554)
 - [Flappy Bird](https://twitter.com/iDevLuke/status/1757497031093067898)
 - [Expose eye tracking](https://twitter.com/i/bookmarks/all?post_id=1757268086405976512)
 - [WhisperKit on AVP](https://twitter.com/RayFernando1337/status/1757808567787413826)
