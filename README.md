@@ -102,6 +102,7 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 - [Spatial Calculator](https://apps.apple.com/us/app/spatial-calculator/id6476468151)
 - [TimerUp](https://apps.apple.com/us/app/timerup-multi-step-timer/id6449905683)
 - [Navi](https://apps.apple.com/us/app/navi-subtitles-translation/id1573261774?platform=appleVisionPro)
+- [Floating Clock](https://sindresorhus.com/floating-clock)
 
 # Repos
 - [Vision Pro Tips and Tricks](https://github.com/jtmuller5/VisionOS-Tips-and-Tricks/tree/main)
