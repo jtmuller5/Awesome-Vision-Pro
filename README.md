@@ -76,6 +76,7 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 - [Spool](https://apps.apple.com/us/app/spool-music-video-editor/id1604274234?platform=appleVisionPro)
 
 ## Productivity
+- [Glowby Genius](https://apps.apple.com/us/app/glowby-genius/id6446417094)
 - [Chronicling](https://chroniclingapp.com/2024/01/apple-vision-pro-launch-ready/)
 - [Fantastical](https://flexibits.com/blog/2023/08/sneaking-a-peek-at-fantastical-on-apple-vision-pro/)
 - [Great White(board)](https://www.swankyshark.com/great-white-board.html)
