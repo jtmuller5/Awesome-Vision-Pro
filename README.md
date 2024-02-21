@@ -86,6 +86,7 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 - [Spatial Noise](https://apps.apple.com/us/app/spatial-noise/id6477335349)
 - [Spatial Noise](https://darknoise.app/spatial/press)
 - [Nuits](https://apps.apple.com/us/app/nuits-white-noise-soundscapes/id1667217062)
+- [Mindr](https://apps.apple.com/us/app/mindr-habit-forming-reminder/id6451364783)
 
 ## Sports
 - [PGA Tour Vision](https://www.pgatour.com/article/news/latest/2024/02/01/pga-tour-vision-experience-new-spatial-app-apple-vision-pro-february-2-reality-application-immersive)
