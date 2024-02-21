@@ -44,6 +44,7 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 - [Soul Spire](https://soulassembly.com/games)
 - [Wisp Worl](https://apps.apple.com/us/app/wisp-world/id6476198961)
 - [What the Golf?](https://whatthegames.com/golf)
+- [4096 3D](https://apps.apple.com/us/app/4096-3d/id6477547599)
 
 ## Graphics & Design
 - [Bento|Craft](https://thatvirtualboy.com/bentocraft)
