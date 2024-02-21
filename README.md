@@ -105,7 +105,7 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 - [TimerUp](https://apps.apple.com/us/app/timerup-multi-step-timer/id6449905683)
 - [Navi](https://apps.apple.com/us/app/navi-subtitles-translation/id1573261774?platform=appleVisionPro)
 - [Floating Clock](https://sindresorhus.com/floating-clock)
-- [Volta](https://apps.apple.com/us/app/volta-battery-monitor/id6477499827)
+- [Volta - Battery Monitor](https://apps.apple.com/us/app/volta-battery-monitor/id6477499827)
 
 # Repos
 - [Vision Pro Tips and Tricks](https://github.com/jtmuller5/VisionOS-Tips-and-Tricks/tree/main)
