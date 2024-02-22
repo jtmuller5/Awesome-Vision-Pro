@@ -45,6 +45,7 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 - [Wisp Worl](https://apps.apple.com/us/app/wisp-world/id6476198961)
 - [What the Golf?](https://whatthegames.com/golf)
 - [4096 3D](https://apps.apple.com/us/app/4096-3d/id6477547599)
+- [Plate Smash](https://apps.apple.com/nz/app/plate-smasher/id6478007815)
 
 ## Graphics & Design
 - [Bento|Craft](https://thatvirtualboy.com/bentocraft)
