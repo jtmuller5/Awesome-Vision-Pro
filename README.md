@@ -41,7 +41,7 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 | Games | What the Golf? | [Link](https://whatthegames.com/golf) |
 | Games | 4096 3D | [Link](https://apps.apple.com/us/app/4096-3d/id6477547599) |
 | Games | Plate Smash | [Link](https://apps.apple.com/nz/app/plate-smasher/id6478007815) |
-| Graphics & Design | Bento|Craft | [Link](https://thatvirtualboy.com/bentocraft) |
+| Graphics & Design | BentoCraft | [Link](https://thatvirtualboy.com/bentocraft) |
 | Graphics & Design | A Bunch of Things | [Link](https://apps.apple.com/us/app/a-bunch-of-things/id6477489901) |
 | Graphics & Design | JigSpace | [Link](https://www.jig.space/blog/jigspace-featured-apple-vision-pro-announcement) |
 | Graphics & Design | CamPlan | [Link](https://camplan.ai/) |
