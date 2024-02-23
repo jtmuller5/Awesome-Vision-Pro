@@ -22,7 +22,7 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 
 | Name | Description | Keywords |
 |------------------|-------------|----------|
-| [‎Making It Rain!](https://apps.apple.com/us/app/making-it-rain/id6477369696)] | Read reviews, compare customer ratings, see screenshots, and learn more about Making It Rain!. Download Making It Rain! and enjoy it on your iPhone, iPad, and iPod touch. | ["Making It Rain!", " Junaid Dawud", " Entertainment", "Lifestyle", " ios apps"] |
+| [‎Making It Rain!](https://apps.apple.com/us/app/making-it-rain/id6477369696) | Read reviews, compare customer ratings, see screenshots, and learn more about Making It Rain!. Download Making It Rain! and enjoy it on your iPhone, iPad, and iPod touch. | ["Making It Rain!", " Junaid Dawud", " Entertainment", "Lifestyle", " ios apps"] |
 | [Bloomberg Pro](https://apps.apple.com/us/app/bloomberg-pro-for-vision/id6473833932) |  |  |
 | [Numerics](https://apps.apple.com/us/app/numerics-business-dashboards/id875319874?platform=appleVisionPro) |  |  |
 | [Simplefax](https://furnacecreek.org/simplefax/vision) |  |  |
