@@ -20,94 +20,70 @@ Collection of apps, developer resources, communities, and articles related to th
 
 Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 
-## Business
-- [Bloomberg Pro](https://apps.apple.com/us/app/bloomberg-pro-for-vision/id6473833932)
-- [Numerics](https://apps.apple.com/us/app/numerics-business-dashboards/id875319874?platform=appleVisionPro)
-- [Simplefax](https://furnacecreek.org/simplefax/vision)
+| Category | App Name | URL |
+|----------|----------|-----|
+| Business | Bloomberg Pro | [Link](https://apps.apple.com/us/app/bloomberg-pro-for-vision/id6473833932) |
+| Business | Numerics | [Link](https://apps.apple.com/us/app/numerics-business-dashboards/id875319874?platform=appleVisionPro) |
+| Business | Simplefax | [Link](https://furnacecreek.org/simplefax/vision) |
+| Education | Memorii | [Link](https://www.studioamanga.com/memorii/) |
+| Education | Sky Guide | [Link](https://www.fifthstarlabs.com/sky-guide) |
+| Finance | Bills to Budget | [Link](https://apps.apple.com/us/app/bills-to-budget/id1636872963) |
+| Finance | Expenses | [Link](https://getexpenses.app) |
+| Finance | SubManager | [Link](https://getsubmanager.app/) |
+| Games | BlackBox | [Link](https://www.blackboxpuzzles.com/) |
+| Games | Synth Riders | [Link](https://synthridersvr.com/) |
+| Games | Jumpfinity | [Link](https://apps.apple.com/us/app/jumpfinity/id6477134673) |
+| Games | Kattam | [Link](https://apps.apple.com/us/app/kattam/id6476475799) |
+| Games | Minghin | [Link](https://minghin.letvar.io) |
+| Games | Loona | [Link](https://loona.vision/) |
+| Games | Soul Spire | [Link](https://soulassembly.com/games) |
+| Games | Wisp Worl | [Link](https://apps.apple.com/us/app/wisp-world/id6476198961) |
+| Games | What the Golf? | [Link](https://whatthegames.com/golf) |
+| Games | 4096 3D | [Link](https://apps.apple.com/us/app/4096-3d/id6477547599) |
+| Games | Plate Smash | [Link](https://apps.apple.com/nz/app/plate-smasher/id6478007815) |
+| Graphics & Design | Bento|Craft | [Link](https://thatvirtualboy.com/bentocraft) |
+| Graphics & Design | A Bunch of Things | [Link](https://apps.apple.com/us/app/a-bunch-of-things/id6477489901) |
+| Graphics & Design | JigSpace | [Link](https://www.jig.space/blog/jigspace-featured-apple-vision-pro-announcement) |
+| Graphics & Design | CamPlan | [Link](https://camplan.ai/) |
+| Health & Fitness | Orbit Meditation | [Link](https://orbitmeditationapp.com/) |
+| Lifestyle | Plant Daddy | [Link](https://plantdaddy.app) |
+| Lifestyle | News Ticker | [Link](https://apps.apple.com/us/app/news-ticker/id6477275619) |
+| Lifestyle | Crouton | [Link](https://apps.apple.com/nz/app/crouton-recipe-manager/id1461650987) |
+| Social | Sora for Mastodon & Bluesky | [Link](https://apps.apple.com/us/app/sora-for-mastodon-bluesky/id6450969760) |
+| Social | TikTok | [Link](https://techcrunch.com/2024/02/15/tiktok-launches-a-reimagined-app-for-the-apple-vision-pro/) |
+| Music | Longplay | [Link](https://longplay.rocks) |
+| Music | tappr.tv | [Link](https://www.tappr.tv) |
+| Photo & Video | Make it Spatial | [Link](https://apps.apple.com/us/app/make-it-spatial/id6477729396?mt=12) |
+| Photo & Video | Juno | [Link](https://christianselig.com/2024/02/introducing-juno/) |
+| Photo & Video | Photoscope | [Link](https://leitmotif.dev/photoscope) |
+| Photo & Video | Spatial Cam | [Link](https://apps.apple.com/us/app/spatial-cam/id6477200179?platform=appleVisionPro) |
+| Photo & Video | Spool | [Link](https://apps.apple.com/us/app/spool-music-video-editor/id1604274234?platform=appleVisionPro) |
+| Productivity | Glowby Genius | [Link](https://apps.apple.com/us/app/glowby-genius/id6446417094) |
+| Productivity | Chronicling | [Link](https://chroniclingapp.com/2024/01/apple-vision-pro-launch-ready/) |
+| Productivity | Fantastical | [Link](https://flexibits.com/blog/2023/08/sneaking-a-peek-at-fantastical-on-apple-vision-pro/) |
+| Productivity | Great White(board) | [Link](https://www.swankyshark.com/great-white-board.html) |
+| Productivity | OmniPlan | [Link](https://www.omnigroup.com/blog/omniplan-coming-to-apple-vision-pro) |
+| Productivity | Subjects | [Link](https://eyen.fr/subjects/) |
+| Productivity | TLDR AI | [Link](https://apps.apple.com/us/app/tldr-ai/id6449050657) |
+| Productivity | Bezel | [Link](https://getbezel.app/vision/) |
+| Productivity | Spatial Noise | [Link](https://apps.apple.com/us/app/spatial-noise/id6477335349) |
+| Productivity | Spatial Noise | [Link](https://darknoise.app/spatial/press) |
+| Productivity | Nuits | [Link](https://apps.apple.com/us/app/nuits-white-noise-soundscapes/id1667217062) |
+| Productivity | Mindr | [Link](https://apps.apple.com/us/app/mindr-habit-forming-reminder/id6451364783) |
+| Sports | PGA Tour Vision | [Link](https://www.pgatour.com/article/news/latest/2024/02/01/pga-tour-vision-experience-new-spatial-app-apple-vision-pro-february-2-reality-application-immersive) |
+| Sports | MLB App | [Link](https://www.mlb.com/press-release/press-release-major-league-baseball-launches-new-mlb-app-on-apple-vision-pro-to-continue-revolutionizing-the-sports-viewing-experience#:~:text=While%20watching%20a%20game%20in,%2Dthe%2Dart%20tracking%20technology.) |
+| Sports | Cricket Scores Live Matches | [Link](https://apps.apple.com/us/app/cricket-scores-live-matches/id1616385207) |
+| Sports | Red Bull TV | [Link](https://apps.apple.com/us/app/red-bull-tv-watch-live-events/id364269164?platform=appleVisionPro) |
+| Travel | Söka | [Link](https://soka.appdeco.ca) |
+| Utilities | Day Peek | [Link](https://twitter.com/day_peek) |
+| Utilities | Nightvision for Nightscout | [Link](https://t.co/OEhu4ViP8K) |
+| Utilities | Quiet | [Link](https://petercammeraat.net/projects/quiet/) |
+| Utilities | Spatial Calculator | [Link](https://apps.apple.com/us/app/spatial-calculator/id6476468151) |
+| Utilities | TimerUp | [Link](https://apps.apple.com/us/app/timerup-multi-step-timer/id6449905683) |
+| Utilities | Navi | [Link](https://apps.apple.com/us/app/navi-subtitles-translation/id1573261774?platform=appleVisionPro) |
+| Utilities | Floating Clock | [Link](https://sindresorhus.com/floating-clock) |
+| Utilities | Volta - Battery Monitor | [Link](https://apps.apple.com/us/app/volta-battery-monitor/id6477499827) |
 
-## Education
-- [Memorii](https://www.studioamanga.com/memorii/)
-- [Sky Guide](https://www.fifthstarlabs.com/sky-guide)
-
-## Finance
-- [Bills to Budget](https://apps.apple.com/us/app/bills-to-budget/id1636872963)
-- [Expenses](https://getexpenses.app)
-- [SubManager](https://getsubmanager.app/)
-
-## Games
-- [BlackBox](https://www.blackboxpuzzles.com/)
-- [Synth Riders](https://synthridersvr.com/)
-- [Jumpfinity](https://apps.apple.com/us/app/jumpfinity/id6477134673)
-- [Kattam](https://apps.apple.com/us/app/kattam/id6476475799)
-- [Minghin](https://minghin.letvar.io)
-- [Loona](https://loona.vision/)
-- [Soul Spire](https://soulassembly.com/games)
-- [Wisp Worl](https://apps.apple.com/us/app/wisp-world/id6476198961)
-- [What the Golf?](https://whatthegames.com/golf)
-- [4096 3D](https://apps.apple.com/us/app/4096-3d/id6477547599)
-- [Plate Smash](https://apps.apple.com/nz/app/plate-smasher/id6478007815)
-
-## Graphics & Design
-- [Bento|Craft](https://thatvirtualboy.com/bentocraft)
-- [A Bunch of Things](https://apps.apple.com/us/app/a-bunch-of-things/id6477489901)
-- [JigSpace](https://www.jig.space/blog/jigspace-featured-apple-vision-pro-announcement)
-- [CamPlan](https://camplan.ai/)
-
-## Health & Fitness
-- [Orbit Meditation](https://orbitmeditationapp.com/)
-
-## Lifestyle
-- [Plant Daddy](https://plantdaddy.app)
-- [News Ticker](https://apps.apple.com/us/app/news-ticker/id6477275619)
-- [Crouton](https://apps.apple.com/nz/app/crouton-recipe-manager/id1461650987)
-
-## Social
-- [Sora for Mastodon & Bluesky](https://apps.apple.com/us/app/sora-for-mastodon-bluesky/id6450969760)
-- [TikTok](https://techcrunch.com/2024/02/15/tiktok-launches-a-reimagined-app-for-the-apple-vision-pro/)
-
-## Music
-- [Longplay](https://longplay.rocks)
-- [tappr.tv](https://www.tappr.tv)
-
-## Photo & Video
-- [Make it Spatial](https://apps.apple.com/us/app/make-it-spatial/id6477729396?mt=12)
-- [Juno](https://christianselig.com/2024/02/introducing-juno/)
-- [Photoscope](https://leitmotif.dev/photoscope)
-- [Spatial Cam](https://apps.apple.com/us/app/spatial-cam/id6477200179?platform=appleVisionPro)
-- [Spool](https://apps.apple.com/us/app/spool-music-video-editor/id1604274234?platform=appleVisionPro)
-
-## Productivity
-- [Glowby Genius](https://apps.apple.com/us/app/glowby-genius/id6446417094)
-- [Chronicling](https://chroniclingapp.com/2024/01/apple-vision-pro-launch-ready/)
-- [Fantastical](https://flexibits.com/blog/2023/08/sneaking-a-peek-at-fantastical-on-apple-vision-pro/)
-- [Great White(board)](https://www.swankyshark.com/great-white-board.html)
-- [OmniPlan](https://www.omnigroup.com/blog/omniplan-coming-to-apple-vision-pro)
-- [Subjects](https://eyen.fr/subjects/)
-- [TLDR AI](https://apps.apple.com/us/app/tldr-ai/id6449050657)
-- [Bezel](https://getbezel.app/vision/)
-- [Spatial Noise](https://apps.apple.com/us/app/spatial-noise/id6477335349)
-- [Spatial Noise](https://darknoise.app/spatial/press)
-- [Nuits](https://apps.apple.com/us/app/nuits-white-noise-soundscapes/id1667217062)
-- [Mindr](https://apps.apple.com/us/app/mindr-habit-forming-reminder/id6451364783)
-
-## Sports
-- [PGA Tour Vision](https://www.pgatour.com/article/news/latest/2024/02/01/pga-tour-vision-experience-new-spatial-app-apple-vision-pro-february-2-reality-application-immersive)
-- [MLB App](https://www.mlb.com/press-release/press-release-major-league-baseball-launches-new-mlb-app-on-apple-vision-pro-to-continue-revolutionizing-the-sports-viewing-experience#:~:text=While%20watching%20a%20game%20in,%2Dthe%2Dart%20tracking%20technology.)
-- [Cricket Scores Live Matches](https://apps.apple.com/us/app/cricket-scores-live-matches/id1616385207)
-- [Red Bull TV](https://apps.apple.com/us/app/red-bull-tv-watch-live-events/id364269164?platform=appleVisionPro)
-
-## Travel
-- [Söka](https://soka.appdeco.ca)
-
-## Utilities
-- [Day Peek](https://twitter.com/day_peek)
-- [Nightvision for Nightscout](https://t.co/OEhu4ViP8K)
-- [Quiet](https://petercammeraat.net/projects/quiet/)
-- [Spatial Calculator](https://apps.apple.com/us/app/spatial-calculator/id6476468151)
-- [TimerUp](https://apps.apple.com/us/app/timerup-multi-step-timer/id6449905683)
-- [Navi](https://apps.apple.com/us/app/navi-subtitles-translation/id1573261774?platform=appleVisionPro)
-- [Floating Clock](https://sindresorhus.com/floating-clock)
-- [Volta - Battery Monitor](https://apps.apple.com/us/app/volta-battery-monitor/id6477499827)
 
 # Repos
 - [Vision Pro Tips and Tricks](https://github.com/jtmuller5/VisionOS-Tips-and-Tricks/tree/main)
