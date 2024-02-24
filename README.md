@@ -22,6 +22,8 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 
 | Name | Description | Keywords |
 |------------------|-------------|----------|
+| [‎Bluebird Focus Timer](https://apps.apple.com/us/app/bluebird-focus-timer/id1478757472) | ‎Bluebird is a time management app for study and work. | Bluebird Focus Timer,  Cub &amp; Pup,  Productivity, Utilities,  ios apps |
+| [‎DapTap](https://apps.apple.com/us/app/daptap/id6473692429) | ‎Step into the dynamic realm of DapTap, where the fusion of music and action creates an immersive spatial gaming experience. | DapTap,  Shanghai Tixindongyi Virtual Reality Information Technology Co.,  Ltd.,  Games, Music |
 | [‎Lava Battery](https://apps.apple.com/us/app/lava-battery/id6477799621) | ‎This groovy lava lamp can be placed in your workspace so you can keep an eye on your Vision Pro battery level and the time. | Lava Battery,  Matthew Marcin,  Utilities, Lifestyle,  ios apps |
 | [‎Maisomage for Matter &amp; HomeKit](https://apps.apple.com/us/app/maisomage-for-matter-homekit/id1630831223) | ‎With Maisomage, transform your connected home into a Smart Home. | Maisomage for Matter &amp; HomeKit,  L'Appli en Rose,  Lifestyle, Utilities,  ios apps |
 | [‎GlanceBar](https://apps.apple.com/us/app/glancebar/id6477764879) | ‎GlanceBar: your day at a glance  Introducing GlanceBar, your ultimate companion for effortlessly staying updated on your day's essentials. Built from the ground up for visionOS, GlanceBar consolidates crucial information into a single, easily accessible window bar.  AN OVERVIEW OF YOUR DAY Instantly… | GlanceBar,  Kabuki Vision,  LLC,  Productivity, Utilities |
