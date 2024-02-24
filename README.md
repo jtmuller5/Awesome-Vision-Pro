@@ -97,6 +97,8 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 
 | Name | Description | Keywords |
 |------------------|-------------|----------|
+| [‎Linkeeper](https://apps.apple.com/us/app/linkeeper/id6449708232) | ‎Linkeeper is the best URL bookmarking app out there, featuring deep integration into macOS, iCloud Sync, extensive Siri Shortcuts actions, and a stunning user interface that makes it a joy to use and feels like home. | Linkeeper,  Starlight Apps LLP,  Utilities, Productivity,  ios apps |
+| [‎PhotoShade](https://apps.apple.com/us/app/photoshade/id1608865970) | ‎Search your photo library by color with PhotoShade. | PhotoShade,  William Taylor,  Photo &amp; Video, Utilities,  ios apps |
 | [‎CARROT Weather: Alerts &amp; Radar](https://apps.apple.com/us/app/carrot-weather-alerts-radar/id961390574) | ‎CARROT Weather is a crazy-powerful (and privacy-conscious) weather app that delivers hilariously twisted forecasts. | CARROT Weather: Alerts &amp; Radar,  Grailr LLC,  Weather, Utilities,  ios apps |
 | [‎MindNode](https://apps.apple.com/us/app/mindnode/id6446116532) | ‎Envisioned for the new age of spatial computing and collaboration, experience brainstorming and mind mapping like never before in the all-new MindNode. | MindNode,  IdeasOnCanvas GmbH,  Productivity, Business,  ios apps |
 | [‎Status Bar Builder: Widget Kit](https://apps.apple.com/us/app/status-bar-builder-widget-kit/id6478221132) | ‎Stylish status bar builder. | Status Bar Builder: Widget Kit,  Vladislav Shtefanko,  Productivity, Utilities,  ios apps |
