@@ -8,13 +8,88 @@
 Collection of apps, developer resources, communities, and articles related to the [Apple Vision Pro](https://www.apple.com/apple-vision-pro/).
 
 # Table of Contents
-- [📲 Apps](#Apps)
 - [💻 Repos](#Repos)
 - [📚 Resources](#Resources)
 - [🗳️ Requested Platforms](#Requested-Platforms)
 - [📰 Articles](#Articles)
 - [🐦 Tweets](Tweets.md)
 - [👥 Community](#Community)
+- [📲 Apps](#Apps)
+
+# Repos
+- [Vision Pro Tips and Tricks](https://github.com/jtmuller5/VisionOS-Tips-and-Tricks/tree/main)
+- [Generative Wall Art](https://github.com/tracyhenry/GenerativeDoodleArt_VisionOS)
+- [Music Player UI](https://github.com/vinothvino42/MusicPlayerUI-VisionOS)
+- [Open visionOS: Animations and UI Designs](https://github.com/amosgyamfi/OpenvisionOS)
+- [KSPlayer on visionOS](https://github.com/kingslay/KSPlayer)
+- [WGSL running in visionOS](https://github.com/jinleili/wgpu-in-app)
+- [30 Days with visionOS](https://github.com/satoshi0212/visionOS_30Days)
+- [Dream with Vision Pro](https://github.com/Sigil-Wen/Dream-with-Vision-Pro)
+- [ISS in your room](https://github.com/ynagatomo/ISSInYourRoomVO)
+- [Stereoscopic Screenshots](https://github.com/zhuowei/VisionOSStereoScreenshots)
+- [ChatGPT + visionOS Documentation](https://github.com/Takuzen/visionosdocsgpt-cli)
+- [VisionCraft](https://github.com/Sigil-Wen/VisionCraft)
+- [Rickies3D](https://github.com/JamBlumberg/Rickies3D)
+- [Build visionOS in React](https://github.com/gabrieldonadel/react-native-visionos)
+- [Note App](https://cordovaputra.com/works/spatial-experience)
+- [Lightweight 3D visualizer](https://github.com/matteofontana-app/MF3DE)
+- [Trivial Red Cube](https://github.com/faisalmemon/trivial-red-cube-visionos-app)
+- [Netflix Vision Pro](https://github.com/barisozgenn/NetflixVisionPro)
+- [Stock Watcher App](https://github.com/6/StonksPro)
+- [Rick and Morty API](https://github.com/AdrianZzito/Rick-Morty-visionOS) and [here](https://github.com/Muruadev/RickAndMorty-visionOS)
+- [Movie Application using Flutter](https://github.com/Thaanu2001/Movie-App-VisionOS-Flutter)
+- [List of Swift Packages using RealityKit](https://github.com/maxxfrazer/RealityKit-Package-Collection)
+- [BookSight](https://github.com/AdrianZzito/visionOS-Portfolio)
+- [OSLog for visionOS](https://github.com/gokulnair2001/OSLogKit)
+- [Sports stats](https://github.com/alfianlosari/XCAFootballStats)
+- [Funnyassi spawn](https://github.com/TETRA2000/visionOS-Funassyi)
+- [RealityGeometries](https://github.com/maxxfrazer/RealityGeometries)
+- [Metal Rendering](https://github.com/metal-by-example/metal-spatial-rendering)
+- [Playground for someone](https://github.com/anshumalivfx/First_Vision_Pro_App)
+- [Simple Calculator](https://github.com/bahadiraraz/visionOS-example) and [here](https://github.com/ishaanbedi/Vision-Calculator) and [here](https://github.com/fukutawata/visionOS_calculator)
+- [visionOS in Quest](https://github.com/JustinPBarnett/visionOS-Demo)
+- [Develop with Imagine lol](https://github.com/BaeBae33/visionOS-develop-with-imagine)
+- [Wordle VisionOS Game](https://github.com/qaze/vision_wordle/)
+
+# Requested Platforms
+- [Dart](https://github.com/dart-lang/native/issues/961)
+- [Firebase](https://github.com/firebase/firebase-ios-sdk/issues/12161)
+- [Flutter](https://github.com/flutter/flutter/issues/129638)
+- [DataDog](https://github.com/DataDog/dd-sdk-ios/issues/1652)
+- [Mastodon](https://github.com/mastodon/mastodon-ios/issues/1106)
+- [Spotify](https://community.spotify.com/t5/Closed-Ideas/Basic-support-for-vision-pro/idi-p/5862792)
+
+# Resources
+- [VisionOS Docs](https://developer.apple.com/visionos/)
+- [VisionOS Release Notes](https://developer.apple.com/documentation/visionos-release-notes/visionos-release-notes)
+- [Vision Pro Developer Strap](https://idmsa.apple.com/IDMSWebAuth/signin?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&path=/visionos/developer-strap/&rv=1)
+- [Unity for VisionOS](https://docs.unity3d.com/Packages/com.unity.polyspatial.visionos@0.1/manual/visionOSPlatformOverview.html)
+- [Sentry for VisionOS](https://docs.sentry.io/platforms/apple/guides/visionos/)
+- [VisionOS on Stack Overflow](https://stackoverflow.com/questions/tagged/visionos)
+- [Halodepth - 2D to Spatial Video](https://halodepth.com/)
+- [Quaternions Explanation](https://eater.net/quaternions)
+- 3D Models
+  - [Apple's USDZ Sample Gallery](https://developer.apple.com/augmented-reality/quick-look/)
+  - [Sketchfab](https://sketchfab.com/)
+  - [TurboSquid](https://www.turbosquid.com/)
+  - [CGTrader](https://www.cgtrader.com/)
+  - [Free3D](https://free3d.com/)
+  - [Reality Converter](https://developer.apple.com/news/?id=01132020a)
+
+
+# Articles
+- [Apple Vision Pro is Apple's new $3,499 AR headset](https://www.theverge.com/2023/6/5/23738968/apple-vision-pro-ar-headset-features-specs-price-release-date-wwdc-2023)
+- [visionOS 1.1 gets its first beta release with MDM and device reset](https://www.macworld.com/article/2228964/visionos-1-1-beta-features-release-date.html)
+- [Apple Vision Pro Review: The Best Headset Yet Is Just a Glimpse of the Future](https://www.wsj.com/tech/apple-vision-pro-review-39f2d82e)
+- [I used the Apple Vision Pro for my 8-hour work day, and it left me wanting more](https://www.zdnet.com/article/i-used-the-apple-vision-pro-for-my-8-hour-work-day-and-it-left-me-wanting-more/)
+- [The Apple Vision Pro Is Spectacular and Sad](https://www.theatlantic.com/technology/archive/2024/02/apple-vision-pro-headset-review/677347/)
+
+# Community
+- [r/visionos](https://www.reddit.com/r/visionos/)
+- [r/visionosdev](https://www.reddit.com/r/visionosdev/)
+- [Apple Support Community](https://discussions.apple.com/community/apple-vision-pro)
+- [VisionOS Dev Community](https://twitter.com/i/communities/1676670381879447564)
+- [VisionOS Community](https://twitter.com/i/communities/1670560952134303746)
 
 # Apps
 
@@ -97,79 +172,3 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 | [Navi](https://apps.apple.com/us/app/navi-subtitles-translation/id1573261774?platform=appleVisionPro) |  |  |
 | [Floating Clock](https://sindresorhus.com/floating-clock) |  |  |
 | [Volta - Battery Monitor](https://apps.apple.com/us/app/volta-battery-monitor/id6477499827) |  |  |
-
-
-# Repos
-- [Vision Pro Tips and Tricks](https://github.com/jtmuller5/VisionOS-Tips-and-Tricks/tree/main)
-- [Generative Wall Art](https://github.com/tracyhenry/GenerativeDoodleArt_VisionOS)
-- [Music Player UI](https://github.com/vinothvino42/MusicPlayerUI-VisionOS)
-- [Open visionOS: Animations and UI Designs](https://github.com/amosgyamfi/OpenvisionOS)
-- [KSPlayer on visionOS](https://github.com/kingslay/KSPlayer)
-- [WGSL running in visionOS](https://github.com/jinleili/wgpu-in-app)
-- [30 Days with visionOS](https://github.com/satoshi0212/visionOS_30Days)
-- [Dream with Vision Pro](https://github.com/Sigil-Wen/Dream-with-Vision-Pro)
-- [ISS in your room](https://github.com/ynagatomo/ISSInYourRoomVO)
-- [Stereoscopic Screenshots](https://github.com/zhuowei/VisionOSStereoScreenshots)
-- [ChatGPT + visionOS Documentation](https://github.com/Takuzen/visionosdocsgpt-cli)
-- [VisionCraft](https://github.com/Sigil-Wen/VisionCraft)
-- [Rickies3D](https://github.com/JamBlumberg/Rickies3D)
-- [Build visionOS in React](https://github.com/gabrieldonadel/react-native-visionos)
-- [Note App](https://cordovaputra.com/works/spatial-experience)
-- [Lightweight 3D visualizer](https://github.com/matteofontana-app/MF3DE)
-- [Trivial Red Cube](https://github.com/faisalmemon/trivial-red-cube-visionos-app)
-- [Netflix Vision Pro](https://github.com/barisozgenn/NetflixVisionPro)
-- [Stock Watcher App](https://github.com/6/StonksPro)
-- [Rick and Morty API](https://github.com/AdrianZzito/Rick-Morty-visionOS) and [here](https://github.com/Muruadev/RickAndMorty-visionOS)
-- [Movie Application using Flutter](https://github.com/Thaanu2001/Movie-App-VisionOS-Flutter)
-- [List of Swift Packages using RealityKit](https://github.com/maxxfrazer/RealityKit-Package-Collection)
-- [BookSight](https://github.com/AdrianZzito/visionOS-Portfolio)
-- [OSLog for visionOS](https://github.com/gokulnair2001/OSLogKit)
-- [Sports stats](https://github.com/alfianlosari/XCAFootballStats)
-- [Funnyassi spawn](https://github.com/TETRA2000/visionOS-Funassyi)
-- [RealityGeometries](https://github.com/maxxfrazer/RealityGeometries)
-- [Metal Rendering](https://github.com/metal-by-example/metal-spatial-rendering)
-- [Playground for someone](https://github.com/anshumalivfx/First_Vision_Pro_App)
-- [Simple Calculator](https://github.com/bahadiraraz/visionOS-example) and [here](https://github.com/ishaanbedi/Vision-Calculator) and [here](https://github.com/fukutawata/visionOS_calculator)
-- [visionOS in Quest](https://github.com/JustinPBarnett/visionOS-Demo)
-- [Develop with Imagine lol](https://github.com/BaeBae33/visionOS-develop-with-imagine)
-- [Wordle VisionOS Game](https://github.com/qaze/vision_wordle/)
-
-# Requested Platforms
-- [Dart](https://github.com/dart-lang/native/issues/961)
-- [Firebase](https://github.com/firebase/firebase-ios-sdk/issues/12161)
-- [Flutter](https://github.com/flutter/flutter/issues/129638)
-- [DataDog](https://github.com/DataDog/dd-sdk-ios/issues/1652)
-- [Mastodon](https://github.com/mastodon/mastodon-ios/issues/1106)
-- [Spotify](https://community.spotify.com/t5/Closed-Ideas/Basic-support-for-vision-pro/idi-p/5862792)
-
-# Resources
-- [VisionOS Docs](https://developer.apple.com/visionos/)
-- [VisionOS Release Notes](https://developer.apple.com/documentation/visionos-release-notes/visionos-release-notes)
-- [Vision Pro Developer Strap](https://idmsa.apple.com/IDMSWebAuth/signin?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&path=/visionos/developer-strap/&rv=1)
-- [Unity for VisionOS](https://docs.unity3d.com/Packages/com.unity.polyspatial.visionos@0.1/manual/visionOSPlatformOverview.html)
-- [Sentry for VisionOS](https://docs.sentry.io/platforms/apple/guides/visionos/)
-- [VisionOS on Stack Overflow](https://stackoverflow.com/questions/tagged/visionos)
-- [Halodepth - 2D to Spatial Video](https://halodepth.com/)
-- [Quaternions Explanation](https://eater.net/quaternions)
-- 3D Models
-  - [Apple's USDZ Sample Gallery](https://developer.apple.com/augmented-reality/quick-look/)
-  - [Sketchfab](https://sketchfab.com/)
-  - [TurboSquid](https://www.turbosquid.com/)
-  - [CGTrader](https://www.cgtrader.com/)
-  - [Free3D](https://free3d.com/)
-  - [Reality Converter](https://developer.apple.com/news/?id=01132020a)
-
-
-# Articles
-- [Apple Vision Pro is Apple's new $3,499 AR headset](https://www.theverge.com/2023/6/5/23738968/apple-vision-pro-ar-headset-features-specs-price-release-date-wwdc-2023)
-- [visionOS 1.1 gets its first beta release with MDM and device reset](https://www.macworld.com/article/2228964/visionos-1-1-beta-features-release-date.html)
-- [Apple Vision Pro Review: The Best Headset Yet Is Just a Glimpse of the Future](https://www.wsj.com/tech/apple-vision-pro-review-39f2d82e)
-- [I used the Apple Vision Pro for my 8-hour work day, and it left me wanting more](https://www.zdnet.com/article/i-used-the-apple-vision-pro-for-my-8-hour-work-day-and-it-left-me-wanting-more/)
-- [The Apple Vision Pro Is Spectacular and Sad](https://www.theatlantic.com/technology/archive/2024/02/apple-vision-pro-headset-review/677347/)
-
-# Community
-- [r/visionos](https://www.reddit.com/r/visionos/)
-- [r/visionosdev](https://www.reddit.com/r/visionosdev/)
-- [Apple Support Community](https://discussions.apple.com/community/apple-vision-pro)
-- [VisionOS Dev Community](https://twitter.com/i/communities/1676670381879447564)
-- [VisionOS Community](https://twitter.com/i/communities/1670560952134303746)
