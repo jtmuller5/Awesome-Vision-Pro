@@ -22,7 +22,11 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 
 | Name | Description | Keywords |
 |------------------|-------------|----------|
-| [‎Jetpack Joyride 2](https://apps.apple.com/us/app/jetpack-joyride-2/id1598096399) | Read reviews, compare customer ratings, see screenshots, and learn more about Jetpack Joyride 2. Download Jetpack Joyride 2 and enjoy it on your iPhone, iPad, iPod touch, Mac OS X 11.0 or later, or Apple TV. | ["Jetpack Joyride 2", " Halfbrick Studios", " Games", "Action", " ios apps"] |
+| [‎Jetpack Joyride 2](https://apps.apple.com/us/app/jetpack-joyride-2/id1598096399) | ‎Barry returns in a frantic adventure!
+
+In this case, he will have new equipment and weapons to fight new enemies and make his way through the laboratory to stop the scientists' experiments before it is too late.
+
+The evolved adventure of Jetpack Joyride with new HD graphics, new animations, new mech… | Jetpack Joyride 2,  Halfbrick Studios,  Games, Action,  ios apps |
 | [‎Odio – Spatial Soundscapes](https://apps.apple.com/us/app/odio-spatial-soundscapes/id1556016869) | Read reviews, compare customer ratings, see screenshots, and learn more about Odio – Spatial Soundscapes. Download Odio – Spatial Soundscapes and enjoy it on your iPhone, iPad, and iPod touch. | ["Odio – Spatial Soundscapes", " Odio Media", " Music", "Lifestyle", " ios apps"] |
 | [‎FloatNotes](https://apps.apple.com/us/app/floatnotes/id6476990428) | Read reviews, compare customer ratings, see screenshots, and learn more about FloatNotes. Download FloatNotes and enjoy it on your iPhone, iPad, and iPod touch. | ["FloatNotes", " Swift Fox Software LLC", " Productivity", "Utilities", " ios apps"] |
 | [‎Making It Rain!](https://apps.apple.com/us/app/making-it-rain/id6477369696) | Read reviews, compare customer ratings, see screenshots, and learn more about Making It Rain!. Download Making It Rain! and enjoy it on your iPhone, iPad, and iPod touch. | ["Making It Rain!", " Junaid Dawud", " Entertainment", "Lifestyle", " ios apps"] |
