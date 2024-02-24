@@ -22,6 +22,7 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 
 | Name | Description | Keywords |
 |------------------|-------------|----------|
+| [‎1Blocker - Ad Blocker](https://apps.apple.com/us/app/1blocker-ad-blocker/id1365531024) | ‎1Blocker lets you block obtrusive ads, sneaky trackers, and annoying elements on sites. | 1Blocker - Ad Blocker,  1Blocker LLC,  Utilities, Productivity,  ios apps |
 | [‎Lens - Browser for Vision](https://apps.apple.com/us/app/lens-browser-for-vision/id6478033172) | ‎Lens is the browser made specifically for Apple Vision Pro! | Lens - Browser for Vision,  Float Tech,  LLC,  Utilities, Entertainment |
 | [‎Bluebird Focus Timer](https://apps.apple.com/us/app/bluebird-focus-timer/id1478757472) | ‎Bluebird is a time management app for study and work. | Bluebird Focus Timer,  Cub &amp; Pup,  Productivity, Utilities,  ios apps |
 | [‎DapTap](https://apps.apple.com/us/app/daptap/id6473692429) | ‎Step into the dynamic realm of DapTap, where the fusion of music and action creates an immersive spatial gaming experience. | DapTap,  Shanghai Tixindongyi Virtual Reality Information Technology Co.,  Ltd.,  Games, Music |
