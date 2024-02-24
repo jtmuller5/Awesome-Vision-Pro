@@ -22,6 +22,7 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 
 | Name | Description | Keywords |
 |------------------|-------------|----------|
+| [‎MindNode](https://apps.apple.com/us/app/mindnode/id6446116532) | ‎Envisioned for the new age of spatial computing and collaboration, experience brainstorming and mind mapping like never before in the all-new MindNode. | MindNode,  IdeasOnCanvas GmbH,  Productivity, Business,  ios apps |
 | [‎Status Bar Builder: Widget Kit](https://apps.apple.com/us/app/status-bar-builder-widget-kit/id6478221132) | ‎Stylish status bar builder. | Status Bar Builder: Widget Kit,  Vladislav Shtefanko,  Productivity, Utilities,  ios apps |
 | [‎1Blocker - Ad Blocker](https://apps.apple.com/us/app/1blocker-ad-blocker/id1365531024) | ‎1Blocker lets you block obtrusive ads, sneaky trackers, and annoying elements on sites. | 1Blocker - Ad Blocker,  1Blocker LLC,  Utilities, Productivity,  ios apps |
 | [‎Lens - Browser for Vision](https://apps.apple.com/us/app/lens-browser-for-vision/id6478033172) | ‎Lens is the browser made specifically for Apple Vision Pro! | Lens - Browser for Vision,  Float Tech,  LLC,  Utilities, Entertainment |
