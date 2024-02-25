@@ -18,6 +18,7 @@ Collection of apps, developer resources, communities, and articles related to th
 
 # Repos
 - [Vision Pro Tips and Tricks](https://github.com/jtmuller5/VisionOS-Tips-and-Tricks/tree/main)
+- [VisionOS examples](https://github.com/jordibruin/visionOS-Examples)
 - [Generative Wall Art](https://github.com/tracyhenry/GenerativeDoodleArt_VisionOS)
 - [Music Player UI](https://github.com/vinothvino42/MusicPlayerUI-VisionOS)
 - [Open visionOS: Animations and UI Designs](https://github.com/amosgyamfi/OpenvisionOS)
@@ -50,7 +51,7 @@ Collection of apps, developer resources, communities, and articles related to th
 - [Simple Calculator](https://github.com/bahadiraraz/visionOS-example) and [here](https://github.com/ishaanbedi/Vision-Calculator) and [here](https://github.com/fukutawata/visionOS_calculator)
 - [visionOS in Quest](https://github.com/JustinPBarnett/visionOS-Demo)
 - [Develop with Imagine lol](https://github.com/BaeBae33/visionOS-develop-with-imagine)
-- [Wordle VisionOS Game](https://github.com/qaze/vision_wordle/
+- [Wordle VisionOS Game](https://github.com/qaze/vision_wordle/)
 - [Apple Vision Pro UI kit](https://github.com/jetstyle/Apple-Vision-Pro-UI-Kit)
 
 # Requested Platforms
