@@ -22,6 +22,7 @@ Collection of apps, developer resources, communities, and articles related to th
 - [Music Player UI](https://github.com/vinothvino42/MusicPlayerUI-VisionOS)
 - [Open visionOS: Animations and UI Designs](https://github.com/amosgyamfi/OpenvisionOS)
 - [KSPlayer on visionOS](https://github.com/kingslay/KSPlayer)
+- [ALVR for Apple visionOS]()
 - [WGSL running in visionOS](https://github.com/jinleili/wgpu-in-app)
 - [30 Days with visionOS](https://github.com/satoshi0212/visionOS_30Days)
 - [Dream with Vision Pro](https://github.com/Sigil-Wen/Dream-with-Vision-Pro)
