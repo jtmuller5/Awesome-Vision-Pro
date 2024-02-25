@@ -50,7 +50,8 @@ Collection of apps, developer resources, communities, and articles related to th
 - [Simple Calculator](https://github.com/bahadiraraz/visionOS-example) and [here](https://github.com/ishaanbedi/Vision-Calculator) and [here](https://github.com/fukutawata/visionOS_calculator)
 - [visionOS in Quest](https://github.com/JustinPBarnett/visionOS-Demo)
 - [Develop with Imagine lol](https://github.com/BaeBae33/visionOS-develop-with-imagine)
-- [Wordle VisionOS Game](https://github.com/qaze/vision_wordle/)
+- [Wordle VisionOS Game](https://github.com/qaze/vision_wordle/
+- [Apple Vision Pro UI kit](https://github.com/jetstyle/Apple-Vision-Pro-UI-Kit)
 
 # Requested Platforms
 - [Dart](https://github.com/dart-lang/native/issues/961)
