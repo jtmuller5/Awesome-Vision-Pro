@@ -116,6 +116,7 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 
 | Name | Description | Keywords |
 |------------------|-------------|----------|
+| [Just for Instagram](https://apps.apple.com/us/app/just-for-instagram/id6477715341) | Just for Instagram is the best app for viewing Instagram images and videos on VisionOS. | |
 | [Posters: Discover Movies @Home](https://apps.apple.com/us/app/posters-discover-movies-home/id6478062053?pt=549314&ct=x.com) | Transform your living space into an ever-evolving cinematic showcase with "Posters", the app designed to breath life into your room with dynamic and interactive posters of the latest trending movies and TV shows | |
 | [Dusk](https://apps.apple.com/br/app/dusk-for-twitter/id6478421686?l=en-GB) | Dusk for Twitter brings the Twitter (now known as X) experience to the Vision Pro, offering a familiar and immersive way to browse your timeline, notifications, lists, bookmarks, and more. | |
 | [‎Linkeeper](https://apps.apple.com/us/app/linkeeper/id6449708232) | ‎Linkeeper is the best URL bookmarking app out there, featuring deep integration into macOS, iCloud Sync, extensive Siri Shortcuts actions, and a stunning user interface that makes it a joy to use and feels like home. | Linkeeper,  Starlight Apps LLP,  Utilities, Productivity,  ios apps |
