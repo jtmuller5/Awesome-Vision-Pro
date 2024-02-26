@@ -19,6 +19,7 @@ Collection of apps, developer resources, communities, and articles related to th
 # Repos
 - [Vision Pro Tips and Tricks](https://github.com/jtmuller5/VisionOS-Tips-and-Tricks/tree/main)
 - [VisionOS examples](https://github.com/jordibruin/visionOS-Examples)
+- [Ensemble](https://github.com/saagarjha/Ensemble) - Bridge windows from Mac to VisionOS
 - [Generative Wall Art](https://github.com/tracyhenry/GenerativeDoodleArt_VisionOS)
 - [Music Player UI](https://github.com/vinothvino42/MusicPlayerUI-VisionOS)
 - [Open visionOS: Animations and UI Designs](https://github.com/amosgyamfi/OpenvisionOS)
