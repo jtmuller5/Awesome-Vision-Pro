@@ -78,6 +78,20 @@ Collection of apps, developer resources, communities, and articles related to th
   - [CGTrader](https://www.cgtrader.com/)
   - [Free3D](https://free3d.com/)
   - [Reality Converter](https://developer.apple.com/news/?id=01132020a)
+- WWDC Videos
+  - [Get started with building apps for spatial computing](https://developer.apple.com/videos/play/wwdc2023/10260)
+  - [Meet ARKit for spatial computing](https://developer.apple.com/videos/play/wwdc2023/10082)
+  - [Build spatial experiences with RealityKit](https://developer.apple.com/videos/play/wwdc2023/10080)
+  - [Develop your first immersive app](https://developer.apple.com/videos/play/wwdc2023/10203)
+  - [Meet SwiftUI for spatial computing](https://developer.apple.com/videos/play/wwdc2023/10109)
+  - [Meet UIKit for spatial computing](https://developer.apple.com/videos/play/wwdc2023/111215)
+  - [Create accessible spatial experiences](https://developer.apple.com/videos/play/wwdc2023/10034)
+  - [Elevate your windowed app for spatial computing](https://developer.apple.com/videos/play/wwdc2023/10110)
+  - [Design for spatial user interfaces](https://developer.apple.com/videos/play/wwdc2023/10076)
+  - [Design for spatial input](https://developer.apple.com/videos/play/wwdc2023/10073)
+  - [Principles of spatial design](https://developer.apple.com/videos/play/wwdc2023/10072)
+  - [Design spatial SharePlay experiences](https://developer.apple.com/videos/play/wwdc2023/10075)
+  - [Explore immersive sound design](https://developer.apple.com/videos/play/wwdc2023/10271)
 
 
 # Articles
