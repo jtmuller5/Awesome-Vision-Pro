@@ -95,6 +95,7 @@ Collection of apps, developer resources, communities, and articles related to th
 
 
 # Articles
+- [Industry looks to Apple Vision Pro for next level of fan engagement](https://www.sportsbusinessjournal.com/Articles/2024/02/26/technology)
 - [Apple Vision Pro is Apple's new $3,499 AR headset](https://www.theverge.com/2023/6/5/23738968/apple-vision-pro-ar-headset-features-specs-price-release-date-wwdc-2023)
 - [visionOS 1.1 gets its first beta release with MDM and device reset](https://www.macworld.com/article/2228964/visionos-1-1-beta-features-release-date.html)
 - [Apple Vision Pro Review: The Best Headset Yet Is Just a Glimpse of the Future](https://www.wsj.com/tech/apple-vision-pro-review-39f2d82e)
