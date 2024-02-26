@@ -115,6 +115,7 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 
 | Name | Description | Keywords |
 |------------------|-------------|----------|
+| [Dusk](https://apps.apple.com/br/app/dusk-for-twitter/id6478421686?l=en-GB) | Dusk for Twitter brings the Twitter (now known as X) experience to the Vision Pro, offering a familiar and immersive way to browse your timeline, notifications, lists, bookmarks, and more. | |
 | [‎Linkeeper](https://apps.apple.com/us/app/linkeeper/id6449708232) | ‎Linkeeper is the best URL bookmarking app out there, featuring deep integration into macOS, iCloud Sync, extensive Siri Shortcuts actions, and a stunning user interface that makes it a joy to use and feels like home. | Linkeeper,  Starlight Apps LLP,  Utilities, Productivity,  ios apps |
 | [‎PhotoShade](https://apps.apple.com/us/app/photoshade/id1608865970) | ‎Search your photo library by color with PhotoShade. | PhotoShade,  William Taylor,  Photo &amp; Video, Utilities,  ios apps |
 | [‎Linkeeper](https://apps.apple.com/us/app/linkeeper/id6449708232) | ‎Linkeeper is the best URL bookmarking app out there, featuring deep integration into macOS, iCloud Sync, extensive Siri Shortcuts actions, and a stunning user interface that makes it a joy to use and feels like home. | Linkeeper,  Starlight Apps LLP,  Utilities, Productivity,  ios apps |
