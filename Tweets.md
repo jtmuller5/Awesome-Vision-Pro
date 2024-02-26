@@ -1,4 +1,5 @@
 # Tweets
+- [Apple Vision Pro is about productivity](https://twitter.com/garrytan/status/1761838545927630984)
 - [1000 Spatial Apps](https://twitter.com/gregjoz/status/1757533581495382496)
 - [Mark Zuckerber's Review](https://twitter.com/gregisenberg/status/1757583652416856534)
 - [Text to 3D with LumaLabsAI](https://twitter.com/ammaar/status/1754711436193112554)
