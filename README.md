@@ -109,6 +109,7 @@ Collection of apps, developer resources, communities, and articles related to th
 - [Apple Support Community](https://discussions.apple.com/community/apple-vision-pro)
 - [VisionOS Dev Community](https://twitter.com/i/communities/1676670381879447564)
 - [VisionOS Community](https://twitter.com/i/communities/1670560952134303746)
+- [Apple Vision Pro Club](https://locals.org/apple-vision-pro-club-ugdq)
 
 # Apps
 
