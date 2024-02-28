@@ -118,6 +118,7 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 
 | Name | Description | Keywords |
 |------------------|-------------|----------|
+| [Finalist: Daily Planner](https://apps.apple.com/us/app/finalist-daily-planner/id6447014685?platform=appleVisionPro) | Like yellow sticky notes for what needs doing today, Finalist is a super simple and fast way to keep track of what's next. | | 
 | [ Activity Monitor - CPU Usage](https://apps.apple.com/us/app/activity-monitor-cpu-usage/id6478422366) | Activity Monitor lets you see your clock, batter percentage and charging state, and CPU Usage and History in small easy-to-read windows. | Activity Monitor - CPU Usage, Charles Etzel, Utilities,Developer Tools |
 | [Fusion: Stations and Playlists](https://testflight.apple.com/join/mgKIQ9hU) | | Music |
 | [Pocket Rocket](https://apps.apple.com/us/app/pocket-rocket/id1493916909) | Pocket Rocket keeps track of all upcoming SpaceX rocket launches, and reminds you of when they're happening. | Pocket Rocket, Voyager Space Systems, LLC, Entertainment,News |
