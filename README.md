@@ -73,6 +73,7 @@ Collection of apps, developer resources, communities, and articles related to th
 - [VisionOS on Stack Overflow](https://stackoverflow.com/questions/tagged/visionos)
 - [Halodepth - 2D to Spatial Video](https://halodepth.com/)
 - [Quaternions Explanation](https://eater.net/quaternions)
+- [AR VR Jobs](https://www.arvrjobs.dev) - A job board dedicated to augmented reality and virtual reality positions.
 - 3D Models
   - [Apple's USDZ Sample Gallery](https://developer.apple.com/augmented-reality/quick-look/)
   - [Sketchfab](https://sketchfab.com/)
