@@ -204,3 +204,5 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 | [Navi](https://apps.apple.com/us/app/navi-subtitles-translation/id1573261774?platform=appleVisionPro) |  |  |
 | [Floating Clock](https://sindresorhus.com/floating-clock) |  |  |
 | [Volta - Battery Monitor](https://apps.apple.com/us/app/volta-battery-monitor/id6477499827) |  |  |
+
+| [VisionDesk](https://apps.apple.com/app/id6792746717) | Multi-display Mac workspace: a free Mac companion provisions real macOS virtual displays and streams up to five of them into a spatial workspace, so the pointer flows between screens and apps remember their monitor. One full display is free; no account, no cloud, no analytics. | Productivity, Mac, Virtual Displays, Multi-Monitor, Streaming |
