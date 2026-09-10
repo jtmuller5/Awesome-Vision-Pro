@@ -28,14 +28,11 @@ Collection of apps, developer resources, communities, and articles related to th
 - [WGSL running in visionOS](https://github.com/jinleili/wgpu-in-app)
 - [30 Days with visionOS](https://github.com/satoshi0212/visionOS_30Days)
 - [Dream with Vision Pro](https://github.com/Sigil-Wen/Dream-with-Vision-Pro)
-- [ISS in your room](https://github.com/ynagatomo/ISSInYourRoomVO)
 - [Stereoscopic Screenshots](https://github.com/zhuowei/VisionOSStereoScreenshots)
 - [ChatGPT + visionOS Documentation](https://github.com/Takuzen/visionosdocsgpt-cli)
 - [VisionCraft](https://github.com/Sigil-Wen/VisionCraft)
 - [Rickies3D](https://github.com/JamBlumberg/Rickies3D)
 - [Build visionOS in React](https://github.com/gabrieldonadel/react-native-visionos)
-- [Note App](https://cordovaputra.com/works/spatial-experience)
-- [Lightweight 3D visualizer](https://github.com/matteofontana-app/MF3DE)
 - [Trivial Red Cube](https://github.com/faisalmemon/trivial-red-cube-visionos-app)
 - [Netflix Vision Pro](https://github.com/barisozgenn/NetflixVisionPro)
 - [Stock Watcher App](https://github.com/6/StonksPro)
@@ -136,7 +133,6 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 | [‎Lens - Browser for Vision](https://apps.apple.com/us/app/lens-browser-for-vision/id6478033172) | ‎Lens is the browser made specifically for Apple Vision Pro! | Lens - Browser for Vision,  Float Tech,  LLC,  Utilities, Entertainment |
 | [‎Bluebird Focus Timer](https://apps.apple.com/us/app/bluebird-focus-timer/id1478757472) | ‎Bluebird is a time management app for study and work. | Bluebird Focus Timer,  Cub &amp; Pup,  Productivity, Utilities,  ios apps |
 | [‎DapTap](https://apps.apple.com/us/app/daptap/id6473692429) | ‎Step into the dynamic realm of DapTap, where the fusion of music and action creates an immersive spatial gaming experience. | DapTap,  Shanghai Tixindongyi Virtual Reality Information Technology Co.,  Ltd.,  Games, Music |
-| [‎Lava Battery](https://apps.apple.com/us/app/lava-battery/id6477799621) | ‎This groovy lava lamp can be placed in your workspace so you can keep an eye on your Vision Pro battery level and the time. | Lava Battery,  Matthew Marcin,  Utilities, Lifestyle,  ios apps |
 | [‎Maisomage for Matter &amp; HomeKit](https://apps.apple.com/us/app/maisomage-for-matter-homekit/id1630831223) | ‎With Maisomage, transform your connected home into a Smart Home. | Maisomage for Matter &amp; HomeKit,  L'Appli en Rose,  Lifestyle, Utilities,  ios apps |
 | [‎GlanceBar](https://apps.apple.com/us/app/glancebar/id6477764879) | ‎GlanceBar: your day at a glance  Introducing GlanceBar, your ultimate companion for effortlessly staying updated on your day's essentials. Built from the ground up for visionOS, GlanceBar consolidates crucial information into a single, easily accessible window bar.  AN OVERVIEW OF YOUR DAY Instantly… | GlanceBar,  Kabuki Vision,  LLC,  Productivity, Utilities |
 | [‎FlightVision Flight Tracker](https://apps.apple.com/us/app/flightvision-flight-tracker/id6477768073) | ‎FlightVision is the ultimate in-flight (or anywhere) companion app designed to provide seamless access to real-time flight updates directly through your Apple Vision Pro. With FlightVision, you can effortlessly monitor your current flight status, including departure and arrival times and flight prog… | FlightVision Flight Tracker,  ShabzCo,  LLC,  Travel, Lifestyle |
@@ -151,7 +147,6 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 | [Sky Guide](https://www.fifthstarlabs.com/sky-guide) |  |  |
 | [Bills to Budget](https://apps.apple.com/us/app/bills-to-budget/id1636872963) |  |  |
 | [Expenses](https://getexpenses.app) |  |  |
-| [SubManager](https://getsubmanager.app/) |  |  |
 | [BlackBox](https://www.blackboxpuzzles.com/) |  |  |
 | [Synth Riders](https://synthridersvr.com/) |  |  |
 | [Jumpfinity](https://apps.apple.com/us/app/jumpfinity/id6477134673) |  |  |
@@ -169,12 +164,9 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 | [CamPlan](https://camplan.ai/) |  |  |
 | [Orbit Meditation](https://orbitmeditationapp.com/) |  |  |
 | [Plant Daddy](https://plantdaddy.app) |  |  |
-| [News Ticker](https://apps.apple.com/us/app/news-ticker/id6477275619) |  |  |
 | [Crouton](https://apps.apple.com/nz/app/crouton-recipe-manager/id1461650987) |  |  |
-| [Sora for Mastodon & Bluesky](https://apps.apple.com/us/app/sora-for-mastodon-bluesky/id6450969760) |  |  |
 | [TikTok](https://techcrunch.com/2024/02/15/tiktok-launches-a-reimagined-app-for-the-apple-vision-pro/) |  |  |
 | [Longplay](https://longplay.rocks) |  |  |
-| [tappr.tv](https://www.tappr.tv) |  |  |
 | [Make it Spatial](https://apps.apple.com/us/app/make-it-spatial/id6477729396?mt=12) |  |  |
 | [Juno](https://christianselig.com/2024/02/introducing-juno/) |  |  |
 | [Photoscope](https://leitmotif.dev/photoscope) |  |  |
@@ -185,10 +177,8 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 | [Fantastical](https://flexibits.com/blog/2023/08/sneaking-a-peek-at-fantastical-on-apple-vision-pro/) |  |  |
 | [Great White(board)](https://www.swankyshark.com/great-white-board.html) |  |  |
 | [OmniPlan](https://www.omnigroup.com/blog/omniplan-coming-to-apple-vision-pro) |  |  |
-| [Subjects](https://eyen.fr/subjects/) |  |  |
 | [TLDR AI](https://apps.apple.com/us/app/tldr-ai/id6449050657) |  |  |
 | [Bezel](https://getbezel.app/vision/) |  |  |
-| [Spatial Noise](https://apps.apple.com/us/app/spatial-noise/id6477335349) |  |  |
 | [Nuits](https://apps.apple.com/us/app/nuits-white-noise-soundscapes/id1667217062) |  |  |
 | [Mindr](https://apps.apple.com/us/app/mindr-habit-forming-reminder/id6451364783) |  |  |
 | [PGA Tour Vision](https://www.pgatour.com/article/news/latest/2024/02/01/pga-tour-vision-experience-new-spatial-app-apple-vision-pro-february-2-reality-application-immersive) |  |  |
@@ -198,9 +188,7 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 | [Söka](https://soka.appdeco.ca) |  |  |
 | [Day Peek](https://twitter.com/day_peek) |  |  |
 | [Nightvision for Nightscout](https://t.co/OEhu4ViP8K) |  |  |
-| [Quiet](https://petercammeraat.net/projects/quiet/) |  |  |
 | [Spatial Calculator](https://apps.apple.com/us/app/spatial-calculator/id6476468151) |  |  |
 | [TimerUp](https://apps.apple.com/us/app/timerup-multi-step-timer/id6449905683) |  |  |
 | [Navi](https://apps.apple.com/us/app/navi-subtitles-translation/id1573261774?platform=appleVisionPro) |  |  |
 | [Floating Clock](https://sindresorhus.com/floating-clock) |  |  |
-| [Volta - Battery Monitor](https://apps.apple.com/us/app/volta-battery-monitor/id6477499827) |  |  |
