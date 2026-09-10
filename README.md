@@ -51,6 +51,7 @@ Collection of apps, developer resources, communities, and articles related to th
 - [Develop with Imagine lol](https://github.com/BaeBae33/visionOS-develop-with-imagine)
 - [Wordle VisionOS Game](https://github.com/qaze/vision_wordle/)
 - [Apple Vision Pro UI kit](https://github.com/jetstyle/Apple-Vision-Pro-UI-Kit)
+- [I/O](https://github.com/comdigis-community/IO)
 
 # Requested Platforms
 - [Dart](https://github.com/dart-lang/native/issues/961)
