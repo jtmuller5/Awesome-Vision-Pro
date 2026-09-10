@@ -54,7 +54,6 @@
 - [Unity build](https://twitter.com/Ruben_Fro/status/1672363816041201664)
 - [Sketchfab Concept by Tina Nigro](https://twitter.com/tina__nigro/status/1672268646373023744) and [further development](https://twitter.com/tina__nigro/status/1672385376596443136)
 - [Lighting tests](https://twitter.com/roadtoros/status/1672179071848153089)
-- [Pinned Windows](https://twitter.com/James_Abev/status/1672071737238867969)
 - [FrameVR on visionOS](https://twitter.com/gabrieljbaker/status/1671951956032782337)
 - [Bezel on visionOS](https://twitter.com/julianparc/status/1671786982572462082?s=20)
 - [Expo App](https://twitter.com/donadeldev/status/1671643367246032897)
