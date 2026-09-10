@@ -117,6 +117,7 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 
 | Name | Description | Keywords |
 |------------------|-------------|----------|
+| [OverSoul](https://apps.apple.com/us/app/oversoul/id6475262918) | The ultimate spatial photo sharing platform, with best in class AI to convert any picture into spatial. | Spatial Photo, Social Media, AI | 
 | [Finalist: Daily Planner](https://apps.apple.com/us/app/finalist-daily-planner/id6447014685?platform=appleVisionPro) | Like yellow sticky notes for what needs doing today, Finalist is a super simple and fast way to keep track of what's next. | | 
 | [ Activity Monitor - CPU Usage](https://apps.apple.com/us/app/activity-monitor-cpu-usage/id6478422366) | Activity Monitor lets you see your clock, batter percentage and charging state, and CPU Usage and History in small easy-to-read windows. | Activity Monitor - CPU Usage, Charles Etzel, Utilities,Developer Tools |
 | [Fusion: Stations and Playlists](https://testflight.apple.com/join/mgKIQ9hU) | | Music |
