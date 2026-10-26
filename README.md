@@ -52,6 +52,7 @@ Collection of apps, developer resources, communities, and articles related to th
 - [Wordle VisionOS Game](https://github.com/qaze/vision_wordle/)
 - [Apple Vision Pro UI kit](https://github.com/jetstyle/Apple-Vision-Pro-UI-Kit)
 - [I/O](https://github.com/comdigis-community/IO)
+- [WishKit](https://github.com/wishkit/wishkit-ios) - In-app feature request board for visionOS, iOS and macOS apps built with SwiftUI
 
 # Requested Platforms
 - [Dart](https://github.com/dart-lang/native/issues/961)
