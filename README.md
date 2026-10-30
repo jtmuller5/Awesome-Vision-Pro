@@ -117,6 +117,7 @@ Check out https://appsforapplevision.com/ for a growing list of VisionOS apps.
 
 | Name | Description | Keywords |
 |------------------|-------------|----------|
+| [Holoport AI Chess](https://apps.apple.com/app/id6820839901) | A hologram chessboard on your real table with hand-tracked pieces and a hologram wizard opponent who talks with you out loud the whole game. Free, with free offline play against an on-device engine. | Games, Chess, Board Game, AI |
 | [VisionDesk](https://apps.apple.com/app/id6792746717) | Multi-display Mac workspace: a free Mac companion provisions real macOS virtual displays and streams up to five of them into a spatial workspace, so the pointer flows between screens and apps remember their monitor. One full display is free; no account, no cloud, no analytics. | Productivity, Mac, Virtual Displays, Multi-Monitor, Streaming |
 | [OverSoul](https://apps.apple.com/us/app/oversoul/id6475262918) | The ultimate spatial photo sharing platform, with best in class AI to convert any picture into spatial. | Spatial Photo, Social Media, AI | 
 | [Finalist: Daily Planner](https://apps.apple.com/us/app/finalist-daily-planner/id6447014685?platform=appleVisionPro) | Like yellow sticky notes for what needs doing today, Finalist is a super simple and fast way to keep track of what's next. | | 
